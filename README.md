@@ -1,6 +1,22 @@
+# Application Stack
+
+- Next.js (Typescript)
+- Bun
+- Prisma
+- Apollo
+- GraphQL
+- SqLite
+- Tailwindcss
+- GoogleAuth
+
+# Extra Notes
+
+- Auto prepends variables to all scss files
+- Uses React-Icons for all icons
+
 # Next.js with Bun runtime
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with Bun.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with Bun.*
 
 ## Getting Started
 
