@@ -1,0 +1,13 @@
+{
+    "endOfLine": "lf",
+    "printWidth": 160,
+    "tabWidth": 2,
+    "trailingComma": "es5",
+
+    "extends": [
+      "next/core-web-vitals",
+      "plugin:@typescript-eslint/recommended",
+      "prettier"
+    ],
+
+}
